@@ -101,7 +101,10 @@
       },
       {
         "name": "Military Tradition",
-        "uniques": ["[+50]% XP gained from combat <for [Military] units>"],
+        "uniques": [
+          "[+50]% XP gained from combat <for [Military] units>",
+          "[+1 Production] from every [Barracks]"
+        ],
         "requires": ["Warrior Code"],
         "row": 2,
         "column": 2
