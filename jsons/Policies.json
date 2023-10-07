@@ -192,7 +192,7 @@
       {
         "name": "Piety Complete",
         "uniques": [
-          "May buy [Culture] buildings with [Faith] for [2] times their normal Production cost"
+          "May buy [Wonder] buildings for [1000] [Faith] [in holy cities] at an increasing price ([500])"
         ]
       }
     ]
